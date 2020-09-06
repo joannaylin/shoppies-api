@@ -1,8 +1,7 @@
 class UsersController < ApplicationController
 
   def index
-    users = User.all
-    render json: users
+    render json: { "Welcome to the Shoppies": "Nominate your favorite movies!"}
   end
 
   def create
