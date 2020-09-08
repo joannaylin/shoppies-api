@@ -1,24 +1,8 @@
-# README
+## Shopify Winter Internship Code Challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails API backend to [React Frontend](https://github.com/joannaylin/shoppies-frontend).
 
-Things you may want to cover:
+Live version at: https://cocky-pasteur-9a4460.netlify.app/ 
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
